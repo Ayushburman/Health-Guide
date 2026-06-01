@@ -12,6 +12,7 @@
 <style>
   :root {
     --bg: #f4f0e8;
+    
     --ink: #1a1410;
     --accent: #c44b2b;
     --gold: #d4952a;
