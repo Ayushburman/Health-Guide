@@ -29,4 +29,5 @@ wellness
 for 
 life 
 beyond 
-Day +100
+Day 
++100
