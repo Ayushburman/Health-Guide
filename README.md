@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-text hrre
-
-  
+text hrr  
 <head>
 <meta charset="UTF-8">
 
