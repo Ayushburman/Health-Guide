@@ -2,9 +2,7 @@
 <html lang="en">
 text hrr  
 <head>
-<meta charset="UTF-8">
-
-  
+<meta charset="UTF-8">  
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Post-SCT Day +100 — Healthy Living Roadmap</title>
