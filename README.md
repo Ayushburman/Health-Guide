@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <meta charset="UTF-8meta name="viewport" content="width=device-width, initial-scale=1.0" <title>Post-SCT Day +100 — Healthy Living Roadmap</tithref="https://fonts.googleapis.family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@300;400;500&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet"<style>  --bg: #f4f0e-ink: #1a141--accent: #c44b2 --gold: #d4952 --sage: #4a7c5 --sky: #2e6b8a--lavender: #6b5b8 --warm: #b85c2 --card: #faf7f2 --border: #d4c9b8--muted: #7a6e6 --green-light: #e8f4ec;
-    --amber-light: #fdf3e3;
-    --blue-light: #e8f0f7;
+    --amber-light: #fdf3 --blue-light: #e8f0f7;
     --red-light: #fdeee9;
     --purple-light: #f0ecf7;
   }
