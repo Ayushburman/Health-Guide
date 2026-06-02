@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <meta charset="UTF-8">  
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Post-SCT Day +100 — Healthy Living Roadmap</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" <title>Post-SCT Day +100 — Healthy Living Roadmap</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@300;400;500&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>  --bg: #f4f0e8;
     
