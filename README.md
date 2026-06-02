@@ -4,9 +4,7 @@
     --red-light: #fdeee9;
     --purple-light: #f0ec
   * { margin:
-  * 0; padding: 0; box-sizing: border-box; }
-
-  body {
+  * 0; padding: 0; box-sizing: border-box; }body {
     font-family: 'Instrument Sans', sans-serif;
     background: var(--bg);
     color: var(--ink);
