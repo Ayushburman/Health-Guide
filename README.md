@@ -4,7 +4,6 @@
     --amber-light: #fdf3 --blue-light: #e8f0f7;
     --red-light: #fdeee9;
     --purple-light: #f0ecf7;
-  }
   
 
   * { margin:
