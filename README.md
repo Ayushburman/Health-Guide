@@ -5,10 +5,7 @@
     
     lang=
     
-    "en">
-    
-    jnaj
-<meta 
+    "en"
 
     
     charset="UTF-8meta name="viewport" content="widle>Post-SCT DayRoadmap</tithref="https://fonts.googleapis.family=splay:italrel="stylesheent: #c444952 --sage: #4a7c5 --sky: #2e6b8a--la--warm: #b85c2 -
@@ -21,6 +18,7 @@
   * 
   *  box-sizing:
   *  border-box;
+  *  
   *   }body
   *   {
     font-family:
