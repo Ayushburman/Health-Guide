@@ -1,11 +1,4 @@
 
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: rgba(244,240,232,0.5);
-    line-height: 1.4;
-    text-align: left;
-  }
-
   /* ── PROGRESS TIMELINE ── */
   .timeline-strip {
     background: var(--ink);
