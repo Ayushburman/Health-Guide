@@ -22,6 +22,7 @@
   }
 
   .day-label {
+  
     font-family: 'DM Mono', monospace;
     font-size: 11px;
     letter-spacing: 0.12em;
