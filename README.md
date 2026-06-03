@@ -20,7 +20,8 @@
   * : 0;
   *  box-sizing:
   *  border-box;
-  *   }body {
+  *   }body
+  *   {
     font-family:
  'Instrument Sans', sans-serif;
     background: var(--bg);
