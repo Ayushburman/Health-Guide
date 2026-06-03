@@ -1,15 +1,5 @@
 
 
-  .timeline-inner::before {
-    content: '';
-    position: absolute;
-    top: 22px;
-    left: 20px;
-    right: 20px;
-    height: 2px;
-    background: rgba(255,255,255,0.1);
-  }
-
   .t-phase {
     flex: 1;
     min-width: 120px;
