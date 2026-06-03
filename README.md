@@ -1,11 +1,4 @@
 
-    line-height: 1;
-  }
-
-  .day-label {
-  
-    font-family: 'DM Mono', monospace;
-    font-size: 11px;
     letter-spacing: 0.12em;
     text-transform: uppercase;
     color: rgba(244,240,232,0.5);
