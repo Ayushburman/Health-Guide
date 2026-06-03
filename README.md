@@ -1,8 +1,4 @@
-
-    border: 1px solid rgba(255,255,255,0.12);
-    border-radius: 4px;
-    padding: 16px 32px;
-    animation: fadeUp 0.7s 0.3s ease both;
+ion: fadeUp 0.7s 0.3s ease both;
   }
 
   .day-num {
