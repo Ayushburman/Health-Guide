@@ -1,9 +1,4 @@
 
-    
-    var(--bg);
-    color: var(--ink);
-    line-height: 1.6;
-    overflow-x: hidden;
   }m* ── HERO ── */
   .hero {
     position: relative;
