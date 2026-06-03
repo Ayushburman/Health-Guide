@@ -1,18 +1,4 @@
 
-    overflow: hidden;
-    text-align: center;
-  }
-
-  .hero-bg-circles {
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-  }
-
-  .hero-bg-circles circle {
-    fill: none;
-    stroke: rgba(212,195,184,0.12);
-    stroke-width: 1;
   }
 
   .hero-badge {
