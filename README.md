@@ -23,6 +23,7 @@
   *   }body
   *   {
     font-family:
+
  'Instrument Sans', sans-serif;
     background: var(--bg);
     color: var(--ink);
