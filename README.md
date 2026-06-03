@@ -1,11 +1,4 @@
 
-  .timeline-inner {
-    display: flex;
-    gap: 0;
-    max-width: 1000px;
-    margin: 0 auto;
-    position: relative;
-  }
 
   .timeline-inner::before {
     content: '';
