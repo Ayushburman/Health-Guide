@@ -3,6 +3,7 @@
   .day-counter {
   
     display: inline-flex;
+    
     align-items: center;
     gap: 20px;
     background: rgba(255,255,255,0.06);
