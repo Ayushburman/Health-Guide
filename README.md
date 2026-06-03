@@ -28,6 +28,7 @@
  
  , sans-serif;
     background:
+    
     var(--bg);
     color: var(--ink);
     line-height: 1.6;
