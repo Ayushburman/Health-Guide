@@ -21,7 +21,8 @@
   *  box-sizing:
   *  border-box;
   *   }body {
-    font-family: 'Instrument Sans', sans-serif;
+    font-family:
+ 'Instrument Sans', sans-serif;
     background: var(--bg);
     color: var(--ink);
     line-height: 1.6;
