@@ -1,13 +1,4 @@
-
-  }
-
-  .hero-badge {
-    display: inline-block;
-    font-family: 'DM Mono', monospace;
-    font-size: 11px;
-    font-weight: 500;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
+e;
     border: 1px solid rgba(212,149,42,0.6);
     color: var(--gold);
     padding: 5px 14px;
