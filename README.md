@@ -15,7 +15,7 @@
  
  , sans-serif;
  
-    background:
+   background:
     
     var(--bg);
     color: var(--ink);
