@@ -26,7 +26,8 @@
 
  'Instrument Sans'
  , sans-serif;
-    background: var(--bg);
+    background:
+    var(--bg);
     color: var(--ink);
     line-height: 1.6;
     overflow-x: hidden;
