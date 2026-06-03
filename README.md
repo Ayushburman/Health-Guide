@@ -2,10 +2,7 @@
   /* ── PROGRESS TIMELINE ── */
   .timeline-strip {
     background: var(--ink);
-    padding: 0 40px 50px;
-    
-    overflow-x: auto;
-  }
+
 
   .timeline-inner {
     display: flex;
