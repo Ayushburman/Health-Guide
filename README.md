@@ -16,6 +16,7 @@
   .day-num {
   
     font-family: 'DM Serif Display', serif;
+    
     font-size: 3.2rem;
     color: var(--gold);
     line-height: 1;
