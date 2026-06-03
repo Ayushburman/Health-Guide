@@ -24,6 +24,7 @@
     font-family:
 
  'Instrument Sans'
+ 
  , sans-serif;
     background:
     var(--bg);
