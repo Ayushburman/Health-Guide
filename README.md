@@ -1,16 +1,5 @@
 
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
-    margin: 0 auto 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 18px;
-    border: 2px solid transparent;
-    position: relative;
-    z-index: 1;
-  }
+
 
   .t-dot.done { background: var(--sage); border-color: var(--sage); }
   .t-dot.active { background: var(--gold); border-color: var(--gold); animation: pulse 2s infinite; }
