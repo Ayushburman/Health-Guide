@@ -1,11 +1,4 @@
-e;
-    border: 1px solid rgba(212,149,42,0.6);
-    color: var(--gold);
-    padding: 5px 14px;
-    border-radius: 2px;
-    margin-bottom: 24px;
-    animation: fadeUp 0.7s ease both;
-  }
+
 
   .hero h1 {
     font-family: 'DM Serif Display', serif;
