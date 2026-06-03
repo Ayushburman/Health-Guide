@@ -1,15 +1,4 @@
 
-
-  .hero h1 {
-    font-family: 'DM Serif Display', serif;
-    font-size: clamp(2.4rem, 5vw, 4.2rem);
-    line-height: 1.15;
-    max-width: 820px;
-    margin: 0 auto 16px;
-    animation: fadeUp 0.7s 0.1s ease both;
-  }
-
-  .hero h1 em {
     font-style: italic;
     color: var(--gold);
   }
