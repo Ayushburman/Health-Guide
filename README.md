@@ -1,9 +1,4 @@
 
-  /* ── PROGRESS TIMELINE ── */
-  .timeline-strip {
-    background: var(--ink);
-
-
   .timeline-inner {
     display: flex;
     gap: 0;
