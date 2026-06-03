@@ -34,6 +34,7 @@
   }m* ── HERO ── */
   .hero {
     position: relative;
+    
     background: var(--ink);
     color: var(--bg);
     padding: 80px 40px 60px;
