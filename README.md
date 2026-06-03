@@ -1,13 +1,4 @@
 
-
-  .t-phase {
-    flex: 1;
-    min-width: 120px;
-    text-align: center;
-    position: relative;
-  }
-
-  .t-dot {
     width: 44px;
     height: 44px;
     border-radius: 50%;
