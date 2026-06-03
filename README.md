@@ -19,7 +19,8 @@
   * 0; padding
   * : 0;
   *  box-sizing:
-  *  border-box; }body {
+  *  border-box;
+  *   }body {
     font-family: 'Instrument Sans', sans-serif;
     background: var(--bg);
     color: var(--ink);
