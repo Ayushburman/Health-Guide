@@ -1,16 +1,4 @@
 
-    font-style: italic;
-    color: var(--gold);
-  }
-
-  .hero-sub {
-    font-family: 'Instrument Sans', sans-serif;
-    font-size: 1.05rem;
-    color: rgba(244,240,232,0.65);
-    max-width: 600px;
-    margin: 0 auto 40px;
-    animation: fadeUp 0.7s 0.2s ease both;
-  }
 
   .day-counter {
     display: inline-flex;
