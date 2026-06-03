@@ -1,15 +1,4 @@
 
-
-
-  .t-dot.done { background: var(--sage); border-color: var(--sage); }
-  .t-dot.active { background: var(--gold); border-color: var(--gold); animation: pulse 2s infinite; }
-  .t-dot.future { background: rgba(255,255,255,0.08); border-color: rgba(255,255,255,0.2); }
-
-  .t-label {
-    font-family: 'DM Mono', monospace;
-    font-size: 10px;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
     color: rgba(244,240,232,0.5);
     line-height: 1.4;
   }
