@@ -20,7 +20,8 @@ modeling.
 | Phase
 | Stage                       | Duration    |
 | ----- 
-| --------------------------- | ----------- |
+| 
+--------------------------- | ----------- |
 | 0     
 | Post-Surgery Rehabilitation | Weeks 1–12+ |
 | 1     | Beginner Foundation         | Months 1–3  |
