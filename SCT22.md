@@ -3,7 +3,8 @@
 
 A structured
 fitness roadmap 
-covering recovery, muscle building, strength development, bodybuilding, and physique modeling.
+covering recovery,
+muscle building, strength development, bodybuilding, and physique modeling.
 
 ---
 
