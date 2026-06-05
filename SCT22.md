@@ -23,7 +23,8 @@ modeling.
 | 
 --------------------------- | ----------- |
 | 0     
-| Post-Surgery Rehabilitation | Weeks 1–12+ |
+| Post-Surgery Rehabilitation 
+| Weeks 1–12+ |
 | 1     | Beginner Foundation         | Months 1–3  |
 | 2     | Intermediate Building       | Months 4–12 |
 | 3     | Advanced Performance        | Years 1–3   |
