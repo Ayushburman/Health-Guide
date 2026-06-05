@@ -1,7 +1,8 @@
 # 🏋️ GYM PROGRESSION GUIDE 
 — From Surgery to Elite
 
-A structured fitness roadmap covering recovery, muscle building, strength development, bodybuilding, and physique modeling.
+A structured
+fitness roadmap covering recovery, muscle building, strength development, bodybuilding, and physique modeling.
 
 ---
 
