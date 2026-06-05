@@ -10,6 +10,7 @@ roadmap
 covering recovery,
 
 muscle building,
+
 strength development, 
 bodybuilding,
 and physique 
