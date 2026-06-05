@@ -6,7 +6,8 @@ fitness roadmap
 covering recovery,
 muscle building,
 strength development, 
-bodybuilding, and physique modeling.
+bodybuilding,
+and physique modeling.
 
 ---
 
