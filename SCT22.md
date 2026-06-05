@@ -7,7 +7,8 @@ covering recovery,
 muscle building,
 strength development, 
 bodybuilding,
-and physique modeling.
+and physique 
+modeling.
 
 ---
 
