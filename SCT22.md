@@ -1,20 +1,6 @@
-# 🏋️ GYM PROGRESSION GUIDE 
-— From Surgery to Elite
+# 🏋️ GYM PROGRESSION GUIDE — From Surgery to Elite
 
-A structured
-
-fitness 
-
-roadmap 
-
-covering recovery,
-
-muscle building,
-
-strength development, 
-bodybuilding,
-and physique 
-modeling.
+A structured fitness roadmap covering recovery, muscle building, strength development, bodybuilding, and physique modeling.
 
 ---
 
@@ -22,14 +8,9 @@ modeling.
 
 **Journey Timeline**
 
-| Phase
-| Stage                       | Duration    |
-| ----- 
-| 
---------------------------- | ----------- |
-| 0     
-| Post-Surgery Rehabilitation 
-| Weeks 1–12+ |
+| Phase | Stage                       | Duration    |
+| ----- | --------------------------- | ----------- |
+| 0     | Post-Surgery Rehabilitation | Weeks 1–12+ |
 | 1     | Beginner Foundation         | Months 1–3  |
 | 2     | Intermediate Building       | Months 4–12 |
 | 3     | Advanced Performance        | Years 1–3   |
