@@ -17,7 +17,8 @@ science
 of energy
 balance 
 to 
-estimating what's on your plate without a scale.
+estimating 
+what's on your plate without a scale.
 
 ---
 
