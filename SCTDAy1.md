@@ -44,6 +44,7 @@ on your plate without a scale.
 ## Quick Facts
 
 | Nutrient
+
 | Calories per Gram 
 |
 |-----------
