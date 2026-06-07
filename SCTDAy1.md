@@ -47,7 +47,8 @@ what's on your plate without a scale.
 
 ---
 
-# Section 01 — What Is a Calorie?
+# Section 01 — 
+What Is a Calorie?
 
 A **kilocalorie (kcal)** — what everyone calls a "calorie" — is the amount of energy needed to raise **1 kg of water by 1°C**.
 
