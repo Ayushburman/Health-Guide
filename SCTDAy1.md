@@ -53,6 +53,7 @@ ale.
 |-----------
 |------------------|
 | Protein | 4 kcal/g |
+
 | Carbohydrates | 4 kcal/g |
 | Fat | 9 kcal/g |
 
