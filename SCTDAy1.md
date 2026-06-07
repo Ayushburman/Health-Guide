@@ -7,7 +7,8 @@ Guide
 · 2025
 
 Your 
-complete, no-fluff guide to understanding calories — from the science of energy balance to estimating what's on your plate without a scale.
+complete,
+no-fluff guide to understanding calories — from the science of energy balance to estimating what's on your plate without a scale.
 
 ---
 
