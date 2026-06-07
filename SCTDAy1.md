@@ -52,6 +52,7 @@ on your plate without a scale.
 | Protein | 4 kcal/g |
 | Carbohydrates | 4 kcal/g |
 | Fat | 9 kcal/g |
+
 | Alcohol | 7 kcal/g |
 
 ---
