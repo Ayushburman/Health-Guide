@@ -43,7 +43,8 @@ on your plate without a scale.
 ## Quick Facts
 
 | Nutrient
-| Calories per Gram |
+| Calories per Gram 
+|
 |-----------|------------------|
 | Protein | 4 kcal/g |
 | Carbohydrates | 4 kcal/g |
