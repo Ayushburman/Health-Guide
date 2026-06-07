@@ -37,7 +37,8 @@ balance
 to 
 estimating 
 what's
-on your plate without a scale.
+on your plate without a sc
+ale.
 
 ---
 
