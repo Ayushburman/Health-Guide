@@ -1,68 +1,22 @@
-# CALORIE 
+# CALORIE CODEX
+### Complete Reference Guide · 2025
 
-CODEX
-
-###
-Complete
-
-R
-
-
-eference 
-
-Guide 
-
-· 2025
-
-Your 
-
-complete,
-
-no-fluff 
-
-guide to
-
-understand
-ing 
-
-calories — 
-
-
-from the 
-
-science 
-
-of energy
-
-balance 
-
-to 
-estimating 
-what's
-on your plate without a sc
-ale.
+Your complete, no-fluff guide to understanding calories — from the science of energy balance to estimating what's on your plate without a scale.
 
 ---
 
 ## Quick Facts
 
-| Nutrient
-
-| Calories per Gram 
-|
-|-----------
-|------------------|
+| Nutrient | Calories per Gram |
+|-----------|------------------|
 | Protein | 4 kcal/g |
-
 | Carbohydrates | 4 kcal/g |
 | Fat | 9 kcal/g |
-
 | Alcohol | 7 kcal/g |
 
 ---
 
-# Section 01 — 
-What Is a Calorie?
+# Section 01 — What Is a Calorie?
 
 A **kilocalorie (kcal)** — what everyone calls a "calorie" — is the amount of energy needed to raise **1 kg of water by 1°C**.
 
