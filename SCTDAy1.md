@@ -8,7 +8,8 @@ Guide
 
 Your 
 complete,
-no-fluff guide to understanding calories — from the science of energy balance to estimating what's on your plate without a scale.
+no-fluff 
+guide to understanding calories — from the science of energy balance to estimating what's on your plate without a scale.
 
 ---
 
