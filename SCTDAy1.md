@@ -35,7 +35,8 @@ balance
 
 to 
 estimating 
-what's on your plate without a scale.
+what's
+on your plate without a scale.
 
 ---
 
