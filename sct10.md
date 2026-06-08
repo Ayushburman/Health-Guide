@@ -21,6 +21,7 @@ Mindset
 xcellence System 
 
 · v1.0
+
 THE
 ASCENT
 From baseline to elite — looks, body, mind & presence
