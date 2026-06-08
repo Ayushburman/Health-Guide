@@ -84,7 +84,8 @@ Sleep & Recovery
 // 01
 LOOKMAXXING
 
-The systematic process of maximizing your natural genetic potential through deliberate lifestyle, grooming, posture, and aesthetic choices.
+The systematic
+process of maximizing your natural genetic potential through deliberate lifestyle, grooming, posture, and aesthetic choices.
 
 "You cannot change your bones. But you can change everything around them."
 — Lookmax Philosophy
