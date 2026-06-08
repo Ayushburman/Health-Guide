@@ -13,6 +13,7 @@ Grooming
 Style
 
 Personality
+
 Mindset
 // Complete Male Excellence System · v1.0
 THE
