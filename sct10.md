@@ -60,6 +60,7 @@ Mindset
 // INDEX
 
 WHAT'S INSIDE
+
 01
 Lookmaxxing System
 02
