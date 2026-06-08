@@ -15,7 +15,8 @@ Style
 Personality
 
 Mindset
-// Complete Male Excellence System · v1.0
+// Complete Male E
+xcellence System · v1.0
 THE
 ASCENT
 From baseline to elite — looks, body, mind & presence
