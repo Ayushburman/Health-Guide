@@ -26,7 +26,8 @@ THE
 
 ASCENT
 
-From baseline
+From 
+baseline
 
 to elite — looks'
 
