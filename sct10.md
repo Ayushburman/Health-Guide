@@ -26,7 +26,9 @@ THE
 ASCENT
 
 From baseline
-to elite — looks, body, mind & presence
+
+to elite — looks
+, body, mind & presence
 Lookmaxxing
 Body Recomp
 Natural T-Optimization
