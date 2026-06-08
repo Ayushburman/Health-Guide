@@ -28,7 +28,8 @@ ASCENT
 
 From baseline
 
-to elite — looks
+to elite — looks'
+
 , body, mind & presence
 Lookmaxxing
 Body Recomp
