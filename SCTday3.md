@@ -16,7 +16,7 @@ sd
 sdm 
 sd 
 md 
-
+sda
 mm d
 ndd f
 
