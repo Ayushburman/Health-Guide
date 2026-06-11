@@ -1,8 +1,7 @@
 
  sd
  )fi
- sdkdfmkkdf
- jsnwhw
+ sdkdfmkk
  
 wdf s
 
