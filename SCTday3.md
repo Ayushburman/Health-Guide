@@ -12,9 +12,7 @@ sdjixjwidjnkw
 d
 sd n
 ad
-kdkfn ds
-sd
-d 
+kdkf
 k
 ks dns
 kk
