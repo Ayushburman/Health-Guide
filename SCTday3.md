@@ -8,4 +8,3 @@ bs
 sdn s
 sdjix
 k
-ks 
