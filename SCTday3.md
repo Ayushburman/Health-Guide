@@ -7,8 +7,7 @@ dfnckdnc
 bs
 idcjdni
 sdn s
-sdjixjwidjnk
-kdkf
+sdjix
 k
 ks dns
 kk
