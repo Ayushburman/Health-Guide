@@ -13,10 +13,7 @@ sdjixjwidjnkwnfof
 smsksx
 mks
 
-sd
-sd
-sdm 
-sd 
+
 md 
 sda
 mm d
