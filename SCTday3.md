@@ -6,5 +6,4 @@ f
 dfnckdnc
 bs
 sdn s
-sdjix
-k
+sdji
