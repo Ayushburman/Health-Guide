@@ -8,6 +8,4 @@ bs
 sdn s
 sdjix
 k
-ks dns
-kk
-ns  
+ks 
