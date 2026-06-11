@@ -11,6 +11,3 @@ k
 ks dns
 kk
 ns  
-ddm 
-
-
