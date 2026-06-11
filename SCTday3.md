@@ -16,8 +16,7 @@ f
 dfnckdnc
 bswjskmck
 idcjdnidn
-dfjd
-kndd
+df
 asdd
 
 s
