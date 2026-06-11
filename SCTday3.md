@@ -14,10 +14,7 @@ dfnckdnc
 bswjskmck
 idcjdnidn
 df
-asdd
-
-s
-kskdknins
+as
 
 sdn s
 sdjixjwidjnkwnfof
