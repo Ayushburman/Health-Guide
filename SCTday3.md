@@ -16,8 +16,7 @@ kdkfn ds
 sd
 d 
 k
-ks dnsds 
-asd
+ks dns
 kk
 ns  d
 sda
