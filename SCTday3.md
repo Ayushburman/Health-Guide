@@ -9,9 +9,7 @@ idcjdni
 sdn s
 sdjixjwidjnkwnf
 
-mm d
-ndd f
-asddf
+
 d
 sd n
 ad
