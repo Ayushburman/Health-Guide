@@ -6,4 +6,3 @@ f
 dfnckdnc
 bs
 sdn s
-sd
