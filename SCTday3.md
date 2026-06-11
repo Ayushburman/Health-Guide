@@ -10,11 +10,7 @@ sdjix
 k
 ks dns
 kk
-ns  d
-sda
-
-ddksndk
-s
+ns  
 ddm 
 
 
