@@ -11,11 +11,7 @@ sdjixjwidjnkwnfof
 
 
 smsksx
-mks
 
-
-md 
-sda
 mm d
 ndd f
 asddf
