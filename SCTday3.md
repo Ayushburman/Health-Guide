@@ -15,9 +15,7 @@ ns  d
 sda
 
 ddksndk
-sd  ks d
-
-
+s
 ddm 
 
 
