@@ -1,6 +1,6 @@
 Here is a clean **R
 Breathing is the continuous movement of air into and out of the lungs. It is unique 
-* **Automatic** (controlled by the brainstem)
+* **Automatic** (controlled by the bra
 * **Voluntary** (can be consciously controlled)
 
 This makes breathing a bridge between the body and mind.
