@@ -1,4 +1,4 @@
-Here is a clean **README.md Notes Version** of the breathing guide from the upl
+Here is a clean **README.md Notes Version** of the breathing 
 
 # The Complete Science of
 
