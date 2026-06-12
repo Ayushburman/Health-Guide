@@ -1,8 +1,6 @@
 Here is a clean **README.md Notes Version** of the breathing guide from the uploaded file. 
 
-# The Complete Science of Breathing
-
-## Overview
+# The Complete Science of Breat
 
 Breathing is the continuous movement of air into and out of the lungs. It is unique because it is both:
 
