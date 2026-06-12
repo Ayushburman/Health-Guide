@@ -5,7 +5,6 @@ jeje
 jdjd
 
 nsn
-jsjs
 
 jdjd
 jeneenns
