@@ -1,6 +1,5 @@
 Here is a clean **REA
-Breathing is the continuous movement of air into and out of the lungs. It is unique becau
-
+Breathing is the continuous movement of air into and out of the lungs. It is unique 
 * **Automatic** (controlled by the brainstem)
 * **Voluntary** (can be consciously controlled)
 
