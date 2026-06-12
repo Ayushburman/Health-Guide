@@ -1,6 +1,6 @@
 Here is a clean **README.md Notes Version** of the breathing 
 
-# The Complete Science of
+# The Complete Sc
 
 Breathing is the continuous movement of air into and out of the lungs. It is unique because it is both:
 
