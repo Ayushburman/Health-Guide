@@ -1,7 +1,5 @@
 Here is a clean **README.md Notes Version** o
 
-# The Complete Sc
-
 Breathing is the continuous movement of air into and out of the lungs. It is unique because it is both:
 
 * **Automatic** (controlled by the brainstem)
