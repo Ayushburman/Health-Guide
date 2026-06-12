@@ -1,6 +1,4 @@
 
-jajane
-
 jajjsjsjs
 jaja
 
