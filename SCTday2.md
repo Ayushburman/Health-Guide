@@ -1,9 +1,4 @@
 
-jsj
-
-jsj
-bajaj
-
 idbs
 jajane
 
