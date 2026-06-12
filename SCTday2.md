@@ -1,4 +1,4 @@
-Here is a clean **README.md Notes Version** of the br
+Here is a clean **README.md Notes Version** o
 
 # The Complete Sc
 
