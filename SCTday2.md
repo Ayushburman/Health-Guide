@@ -2,8 +2,7 @@ Here is a clean **R
 Breathing is the continuous movement of air into and out of the lungs. It i
 * **Automatic** (controlled by the bra
 * **Voluntary** (can be consciously contro
-This makes breathing a bridge between the body and m
-
+This makes breathing a bridge between the body an
 ---
 
 # 1. What Is Breathing?
