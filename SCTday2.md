@@ -1,10 +1,6 @@
 
 
 
-nxnd
-ndns
-
-
 jeje
 jdjd
 
