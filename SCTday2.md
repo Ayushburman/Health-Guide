@@ -1,7 +1,4 @@
 
-jajjsjsjs
-jaja
-
 dnjdn
 jaja
 
