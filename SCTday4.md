@@ -8,12 +8,7 @@ jen
 nudnhs
 jnd
 nish
-hnuhs
-jnj
-jnun
- jxn 
-  jn
-   hb
+
 nvjfmjn
 njc jn
 ggyg
