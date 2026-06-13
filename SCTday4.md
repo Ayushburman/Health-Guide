@@ -10,6 +10,7 @@ jnd
 nish
 hnuhs
 jnun
+ jxn 
 nvjfn
 njc jn
 nncnc
