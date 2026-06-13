@@ -11,7 +11,8 @@ nish
 hnuhs
 jnun
  jxn 
-nvjfn
+  jn
+nvjfmjn
 njc jn
 nncnc
 jn j
