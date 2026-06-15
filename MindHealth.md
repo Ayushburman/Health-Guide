@@ -9,6 +9,7 @@ ununju
 unuh
 unnu
 nuju
+jinnu
 nhhnnu
 jnu7
 
