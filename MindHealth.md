@@ -10,12 +10,12 @@ unuh
 unnu
 nuju
 nhhnnu
-uhuhu
-mjnbhnuhu
+
+unmjnbhnuhu
 nhunhnuh
 
 hnyn
 muju
 hbhh
-nhhnnn
+nhhnnnu
 nun
