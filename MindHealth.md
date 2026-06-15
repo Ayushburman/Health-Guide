@@ -10,7 +10,7 @@ unuh
 unnu
 nuju
 uhuhu
-mjn
+mjnbhnuhu
 nhun
 
 hnyn
