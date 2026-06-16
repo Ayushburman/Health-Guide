@@ -18,7 +18,8 @@ s hz
 snhz
 shus
 nsj
-snjz
+snjzn
+xcndjdn
 nshz
 njz
 niz
