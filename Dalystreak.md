@@ -17,6 +17,7 @@ nunu
 nun
 sush
 nckn
+njn
  cjnv
 bsh
 nunu
