@@ -8,6 +8,7 @@ bhs
 bsj a
 bsh
 bzhab
+shus
 nsj
 snjz
 njz
