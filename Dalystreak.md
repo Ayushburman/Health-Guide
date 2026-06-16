@@ -17,7 +17,8 @@ shhsh
 njn
 nunu
 nun
-sush
+sus
+
 nckn
 njn
  cjnv
