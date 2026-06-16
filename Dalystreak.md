@@ -1,6 +1,7 @@
 
 adsc
-najn
+naj
+
 
 mia
 nuna
