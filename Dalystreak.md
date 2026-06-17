@@ -1,9 +1,7 @@
 
 nunj
 n
-njn
-
-
+nj
  
  uhuh
 bsh
