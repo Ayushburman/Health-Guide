@@ -6,6 +6,7 @@ nj
 iji
  jub
  mjoj
+ miji
 nin
 inij
 znjz
