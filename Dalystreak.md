@@ -5,7 +5,7 @@ njn
 
 nunu
 
-nckn
+nc
 
  cjnv
  uhuh
