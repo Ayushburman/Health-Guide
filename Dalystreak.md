@@ -11,7 +11,7 @@ nc
  jnh
 bsh
 nunu
- dbch
+ d
   dknf
 nzj
 znjz
