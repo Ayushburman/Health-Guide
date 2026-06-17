@@ -7,8 +7,6 @@ nc
 
  cjnv
  uhuh
- 
- jnh
 bsh
 nunu
  d
