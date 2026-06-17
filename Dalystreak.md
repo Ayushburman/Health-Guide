@@ -2,6 +2,8 @@
 nunj
 n
 nj
+
+iji
  jub
 
 znjz
