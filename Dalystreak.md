@@ -4,9 +4,6 @@ n
 njn
 
 nunu
-nun
-
-sus
 
 nckn
 njn
