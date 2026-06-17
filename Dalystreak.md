@@ -2,7 +2,6 @@
 nunj
 n
 bxh
-shh
 
 njn
 
