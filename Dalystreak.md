@@ -12,7 +12,7 @@ bzhab
 s r
 
 shus
-ndjnc
+nd
 nsj
 snjzn
 xcndjdn
