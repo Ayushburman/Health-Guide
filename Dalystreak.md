@@ -1,8 +1,6 @@
 
 nunj
 n
-bxh
-
 njn
 
 nunu
