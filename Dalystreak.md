@@ -3,8 +3,7 @@ nunj
 n
 njn
 
-nunu
-
+nu
 nc
 
  cjnv
