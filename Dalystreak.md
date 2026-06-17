@@ -7,7 +7,7 @@ nj
 bsh
 nunu
  d
-  dknf
+  d
 nzj
 znjz
 dbhc
