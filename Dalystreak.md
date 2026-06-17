@@ -3,9 +3,7 @@ nunj
 n
 nj
  
- uhu
-
-  d
+ uh
 nzj
 znjz
 dbhc
