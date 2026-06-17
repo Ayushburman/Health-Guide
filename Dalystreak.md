@@ -3,7 +3,6 @@ nunj
 n
 njn
 
-nc
 
  
  uhuh
