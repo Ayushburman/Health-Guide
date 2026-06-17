@@ -3,8 +3,7 @@ nunj
 n
 nj
  
- uhuh
-bsh
+ uhu
 
   d
 nzj
