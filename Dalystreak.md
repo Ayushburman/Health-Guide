@@ -4,7 +4,7 @@ n
 nj
  jub
 
-nzj
+n
 znjz
 dbhc
  hb
