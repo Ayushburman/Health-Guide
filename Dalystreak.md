@@ -5,8 +5,7 @@ nj
  
  uhuh
 bsh
-nunu
- d
+
   d
 nzj
 znjz
