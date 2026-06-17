@@ -11,7 +11,6 @@ dbhc
 bzhab
 s
 shus
-nd
 nsj
 snjzn
 xcndjdn
