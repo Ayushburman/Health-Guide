@@ -3,13 +3,7 @@ nunj
 n
 nj
 
-iji
-abhbhb
 
- jubhbybyg
- 
- nnij
- 
  mjoj
  
  miji
