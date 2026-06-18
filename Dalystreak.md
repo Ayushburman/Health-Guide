@@ -15,8 +15,7 @@ kimi
 miji
 shus
 
-snjzn
-xcndjdn
+sn
 mcmi
 jnc)
 nshz
