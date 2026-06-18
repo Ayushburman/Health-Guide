@@ -17,6 +17,4 @@ shus
 
 sn
 
-njz
-niz
 hunx
