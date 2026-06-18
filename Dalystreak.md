@@ -1,4 +1,4 @@
-> /mnt/user-data/outputs/human_body_complete.html << 'HTMLEOF'
+ /mnt/user-data/outputs/human_body_complete.html << 'HTMLEOF'
 <!DOCTYPE html>
 <html lang="en">
 <head>
