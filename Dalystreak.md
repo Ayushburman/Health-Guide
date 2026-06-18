@@ -10,10 +10,7 @@ m knc
 
 jij
 
-nnn
-dbhdfjkd
 
-kjij
 
 kllk
 jiji
