@@ -16,9 +16,7 @@ miji
 shus
 
 sn
-mcmi
-jnc)
-nshz
+
 njz
 niz
 hunx
