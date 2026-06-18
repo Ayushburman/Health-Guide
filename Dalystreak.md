@@ -5,18 +5,8 @@ n
 nj
 
 
- mjoj
+ mhinjnjnu
  
- miji
- 
-nin
-
-inij
-
-jjdjd
-
-
-znjz
 
 nun
 
