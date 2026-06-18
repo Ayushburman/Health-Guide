@@ -27,7 +27,8 @@ m knc
 
 nin
 
-jijo
+jij
+
 nnn
 dbhdfjkd
 
