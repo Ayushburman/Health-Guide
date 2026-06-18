@@ -10,11 +10,3 @@ m k
  njnjh
 bz
 
-koio
-kimi
-miji
-shus
-
-sn
-
-hunx
