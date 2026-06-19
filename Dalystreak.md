@@ -1,6 +1,7 @@
 Guide
 to
-the right
+the
+right
 time, way,
 and item to4
 eat for general
