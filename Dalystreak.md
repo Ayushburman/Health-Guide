@@ -1,4 +1,5 @@
-Guide to the right time, way, and item to eat for general health
+Guide to
+the right time, way, and item to eat for general health
 Right time
 
 Breakfast within 1-2 hrs of waking
