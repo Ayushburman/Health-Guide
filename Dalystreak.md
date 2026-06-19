@@ -38,7 +38,8 @@ Vegetables and protein before carbs
 Stay seated 10-15 min after eating
 Right item
 
-Whole foods over processed
+Whole foods
+over processed
 Protein, fibre, and healthy fats each meal
 Seasonal fruit and vegetables
 Whole grains over refined
