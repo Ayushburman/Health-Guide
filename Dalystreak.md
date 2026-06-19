@@ -45,7 +45,8 @@ fibre,
 and
 healthy 
 fats each meal
-Seasonal fruit and vegetables
+Seasonal fruit
+and vegetables
 Whole grains over refined
 Limit added sugar and fried food
 These are general wellness habits, not medical advice — individual needs vary with age, activity, and health conditions.
