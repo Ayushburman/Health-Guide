@@ -15,7 +15,8 @@ Right
 time
 
 Breakfast
-within 1-2 
+within
+1-2 
 hrs of waking
 Largest meal
 midday, lighte
