@@ -18,7 +18,8 @@ Breakfast
 within
 1-2 
 hrs 
-of waking
+of 
+waking
 Largest meal
 midday, lighte
 r dinner
