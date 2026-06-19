@@ -2,7 +2,8 @@ Guide
 to
 the
 right
-time, way,
+time,
+way,
 and
 item to4
 eat for general
