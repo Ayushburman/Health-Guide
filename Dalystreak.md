@@ -10,7 +10,8 @@ Breakfast
 within 1-2 
 hrs of waking
 Largest meal
-midday, lighter dinner
+midday, lighte
+r dinner
 Dinner 2-3 hrs before sleep
 Consistent meal times daily
 12-14 hr overnight gap between dinner and breakfast
