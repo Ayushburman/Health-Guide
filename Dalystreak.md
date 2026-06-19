@@ -41,7 +41,8 @@ Right item
 Whole foods
 over processed
 Protein,
-fibre, and
+fibre,
+and
 healthy 
 fats each meal
 Seasonal fruit and vegetables
