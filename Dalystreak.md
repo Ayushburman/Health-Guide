@@ -42,7 +42,8 @@ Whole foods
 over processed
 Protein,
 fibre, and
-healthy fats each meal
+healthy 
+fats each meal
 Seasonal fruit and vegetables
 Whole grains over refined
 Limit added sugar and fried food
