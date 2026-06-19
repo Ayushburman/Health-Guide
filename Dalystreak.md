@@ -1,7 +1,5 @@
-Guideto
-the
-right
-time,way,
+Guideto the
+right time,way,
 and
 item
 to4
