@@ -1,7 +1,6 @@
 Guideto the
 right time,way,
-and
-item
+and item
 to4
 eat
 for 
