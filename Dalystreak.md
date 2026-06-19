@@ -33,7 +33,7 @@ Eat to 80% fullness
 Vegetables and protein before carbs
 Stay seated 10-15 min after eating
 Right item
-
+dfg
 Whole foods
 over processed
 Protein,
