@@ -41,7 +41,8 @@ Right item
 Whole foods
 over processed
 Protein,
-fibre, and healthy fats each meal
+fibre, and
+healthy fats each meal
 Seasonal fruit and vegetables
 Whole grains over refined
 Limit added sugar and fried food
