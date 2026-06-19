@@ -1,5 +1,4 @@
-Guide
-to
+Guideto
 the
 right
 time,way,
@@ -27,7 +26,8 @@ hrs before
 sleep
 Consistent
 meal times daily
-12-14 hr overnight gap between dinner and breakfast
+12-14 hr 
+overnight gap between dinner and breakfast
 Right way
 
 Chew slowly, 20-30 times per bite
