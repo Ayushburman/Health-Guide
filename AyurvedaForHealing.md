@@ -4,6 +4,7 @@
 
 ---
 
+
 # Overview
 
 **Ayurveda** (Ayus = Life, Veda = Knowledge) is a traditional Indian system of medicine developed over 3,000–5,000 years ago.
