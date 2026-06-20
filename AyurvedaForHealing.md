@@ -17,6 +17,7 @@ Its central idea is that health depends on maintaining balance among three biolo
 
 Modern science has not validated Dosha theory as a physiological model, but many Ayurvedic herbs have been studied individually using modern research methods.
 
+
 ---
 
 # The Three Doshas
